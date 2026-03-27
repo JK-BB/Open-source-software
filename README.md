@@ -5,8 +5,11 @@ The Open Source Audit — Git
 Open Source Software (OSS) Capstone Project
 
 Course: Open Source Software 
-| VITyarthi Student Name: Shirin Kaleher 
+
+VITyarthi Student Name: Shirin Kaleher 
+
 Roll Number: 24BCE10845 
+
 Chosen Software: Git (Licensed under GPL v2)
 
  About This Project
