@@ -4,7 +4,7 @@ The Open Source Audit — Git
 
 Open Source Software (OSS) Capstone Project
 
-Course: Open Source Software | VITyarthi Student Name: Daksh Maru Roll Number: 24BCE11514 Chosen Software: Git (Licensed under GPL v2)
+Course: Open Source Software | VITyarthi Student Name: Shirin Kaleher Roll Number: 24BCE10845 Chosen Software: Git (Licensed under GPL v2)
 
  About This Project
 
@@ -14,7 +14,7 @@ The repository contains five shell scripts that demonstrate practical Linux and 
 
  Repository Structure
 
-oss-audit-[rollnumber]/
+oss-audit-[24bce10845]/
 │
 ├── script1_system_identity.sh       # System Identity Report
 ├── script2_package_inspector.sh     # FOSS Package Inspector
